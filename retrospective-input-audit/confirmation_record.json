@@ -1,0 +1,86 @@
+[
+  {
+    "round": 1,
+    "reviewer_id": "Author-A",
+    "cases": [
+      1,
+      2,
+      3
+    ],
+    "confirmation_original_portuguese": "Concordo com seu julgamento",
+    "confirmation_meaning": "Agrees with the proposed judgments for the displayed cases only."
+  },
+  {
+    "round": 2,
+    "reviewer_id": "Author-A",
+    "cases": [
+      4,
+      5,
+      6
+    ],
+    "confirmation_original_portuguese": "concordo com os três",
+    "confirmation_meaning": "Agrees with the proposed judgments for the displayed cases only."
+  },
+  {
+    "round": 3,
+    "reviewer_id": "Author-A",
+    "cases": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "confirmation_original_portuguese": "concordo com todos os casos",
+    "confirmation_meaning": "Agrees with the proposed judgments for the displayed cases only."
+  },
+  {
+    "round": 4,
+    "reviewer_id": "Author-A",
+    "cases": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "confirmation_original_portuguese": "concordo com os seis",
+    "confirmation_meaning": "Agrees with the proposed judgments for the displayed cases only."
+  },
+  {
+    "round": 5,
+    "reviewer_id": "Author-A",
+    "cases": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "confirmation_original_portuguese": "concordo, esse numero de 24 eh suficiente?",
+    "confirmation_meaning": "Agrees with the proposed judgments for the displayed cases only."
+  },
+  {
+    "round": 6,
+    "reviewer_id": "Author-A",
+    "cases": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "confirmation_original_portuguese": "concordo com os 12, poderia montar o material complementar dessa parte?",
+    "confirmation_meaning": "Agrees with the proposed judgments for the displayed cases only."
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "reviewed_pairs": 36,
+  "parent_stories": 23,
+  "profile_counts": {
+    "syntactic": 12,
+    "semantic": 12,
+    "pragmatic": 12
+  },
+  "project_counts": {
+    "zooniverse": 12,
+    "planningpoker": 12,
+    "badcamp": 12
+  },
+  "original_variant_pool": 135,
+  "unreviewed_variants": 99,
+  "human_reviewers": 2,
+  "coverage_judgments_completed": 0,
+  "construction_label_disagreements": 12,
+  "initial_agreement_count": 28,
+  "initial_disagreement_count": 8,
+  "initial_disagreement_case_numbers": [
+    17,
+    18,
+    22,
+    24,
+    31,
+    32,
+    35,
+    36
+  ],
+  "initial_agreement_fraction": 0.7777777777777778,
+  "initial_agreement_percent": 77.77777777777777,
+  "final_consensus_count": 36,
+  "final_judgments_changed": 0,
+  "agreement_basis": "Author-reported initial endorsement; no independent reliability claim",
+  "kappa": "NOT_COMPUTED: original alternative judgments unavailable"
+}

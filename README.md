@@ -28,6 +28,16 @@ Two specialists reviewed 100 selected questions by consensus: 76 concerned requi
 
 `reference/final_classification.csv` retains the original labels: **Classical Normative Scope** corresponds to the manuscript's **requirements concerns**, and **Extended Scope (New AI Dimension)** corresponds to **operational detail**. The latter name does not establish that these information needs are specific to AI.
 
+### Retrospective input audit
+
+The `retrospective-input-audit/` folder documents a two-coauthor review
+of 36 baseline–variant pairs from 23 parent stories. It includes
+the paired texts, qualified judgments, selection procedure,
+and consensus record: 28 initial agreements and eight disagreements
+resolved through discussion, with all existing judgments retained.
+This audit concerns input changes, not agent-response coverage, and is separate
+from the content classification of 100 generated questions.
+
 ## Execution protocol
 
 The 180 recorded executions took place on October 14, 2026, using Codex CLI configured with model alias `gpt-6.1-sol`. Each case used a separate workspace, the same clarification skill and constitution, and a minimal active specification. The runner used a read-only sandbox and JSON event logging, without explicit temperature or decoding settings.
@@ -41,6 +51,7 @@ The adapted prompt requested up to five numbered questions in a single response,
 - `speckit_codex/`: workflow template, clarification skill, and constitution.
 - `run_replication.py`: isolated execution runner and adapted prompt.
 - `extract_markers.py`: extracts raw markers and preceding context into `markers_for_review.csv`; it does not automatically validate substantive questions or defect detection.
+- `retrospective-input-audit/`: retrospective input review of 36 pairs, with protocol and consensus records.
 - `reference/`: documented human coding, final classification CSV, source datasets, themes, and provenance records.
 - `mutation_manifest_SAC_2027_clean.csv`: intended transformations and source mappings.
 - `release_manifest.json`: SHA-256 hashes of released artifacts; the manifest excludes itself.

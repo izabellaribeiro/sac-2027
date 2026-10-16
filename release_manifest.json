@@ -220,7 +220,7 @@
     "reference/source_datasets/source_manifest.json": "19938bd3012cb408655edfb2e8abc8103b91bd2f48dead2f512ccd193fb0f8f5",
     "reference/speckit.clarify.md": "4aa7dc9c1c8320ad8f3ca9caec59e42363fca085d22d18f2d295ead3b2165ea5",
     "reference/story_provenance.csv": "7af75dde81ee3e41b70711671830b99510ef65861d9af52a9abfe5c549d7e8cd",
-    "REPLICATION_STATUS.md": "fae1f4212df1540b0584c00ac1d3ce8d6d1489c651d50f8113d65a32b1c6972b",
+    "REPLICATION_STATUS.md": "35682f1d08e49fcf007df0ad69deb031bd1a0c8695e63a72ae7c0a725f0a3bfb",
     "results_new/US_001_baseline/completed.json": "c58442e41c3252b7e70a8355a21dfe48001c6b6a7897cd96349844a676daf696",
     "results_new/US_001_baseline/events.jsonl": "bb2ce86d08a9eee7a8026ba122f76987e4ff10a20eae492c05c57a620aadf5a9",
     "results_new/US_001_baseline/final_response.md": "b95ed6b990d0f8d33a178f00c68aa7fc40b2c695fead9a34449d1c1d677502aa",
@@ -1154,8 +1154,21 @@
     "speckit_codex/.specify/workflows/workflow-registry.json": "6d39590e060eddea9c5d1584b4a79c533a08ed82f331ddcfc6862c45c08d7d4e",
     "speckit_codex/AGENTS.md": "890182a9f3a5e77334f3abfe0eabd18d01a1a5359448b016dcd34f62974d0407",
     "speckit_codex/specs/001-us001-baseline/spec.md": "b7b64bfb8eaf81d7c3607f343db30109e9cb523569a887af4099ec58f1e624c6",
-    "README.md": "0fc6cd2e5ee8364363dfc1956c5808d952f82b1fa53e42044c503f7255c64ab1",
-    "LICENSE": "06504f5a42cb4635e8b37e187251efba41dc807598c938dd4b704f6a25e54474"
+    "README.md": "0f261775a85487e0e9e5d0a14926a93da961d5ab4ef6ee920811f7c35db27c15",
+    "LICENSE": "06504f5a42cb4635e8b37e187251efba41dc807598c938dd4b704f6a25e54474",
+    "retrospective-input-audit/adjudication.csv": "0f837a7b1b2783c50056cfde59b99e0c50af7882b502ef52747c5100dbd17c70",
+    "retrospective-input-audit/casebook.md": "b0104f328341207fcaaf7f0209540e24ebb131ec6c1cae2543744a08cad8715e",
+    "retrospective-input-audit/CHANGELOG.md": "72a0747ca37da95a9fdc6b341b8dbbaaaff306bfa8980c7e1abf499c6d68b74b",
+    "retrospective-input-audit/checksums.sha256": "2a37c41f8386e5fc9cda62082b6b3399514d02eded4cfe14cf23bfcd8ec6d44e",
+    "retrospective-input-audit/confirmation_record.json": "451454ce3905671199e8865dada1b8d0069d5442e4ffac230c6524c8e960d7e2",
+    "retrospective-input-audit/consensus_record.json": "dc38a1cb5637977f88d113711918683365e00205be0bb69acbcc55c5fdba0ad6",
+    "retrospective-input-audit/data_dictionary.md": "55b979721618bd70c141d69ee57fe27275a937fc0cb92673e8d35a9847df8d9d",
+    "retrospective-input-audit/protocol.md": "9a5407687d107b706575e46ae7a38cfff11c78cac64447a069460d1ed25e3247",
+    "retrospective-input-audit/README.md": "d8198407c9eb637f08daf676c2e8712753d61817280c87c68d2cf952c234eea5",
+    "retrospective-input-audit/reviewed_pairs.csv": "8ebc286bd519576194ccd42c2e2a63db3ef614038360af8bb8a76d6f2532660b",
+    "retrospective-input-audit/reviewed_pairs.json": "1bf7746d099a7ebb60dd04b84f600ec7329d0801eee577cb43ace98614031409",
+    "retrospective-input-audit/source_provenance.json": "ead2d787ed576e2d29cce1f350eed48a4d1a50f70ea2659b0be19de385ee5ce0",
+    "retrospective-input-audit/summary.json": "3e787163e7fcd474ffe3e95bfac9419c5600e32c077cda9ff578e3052bc760df"
   },
   "anonymous_repository_url": "https://anonymous.4open.science/r/speckit-clarification-study-111B/"
 }

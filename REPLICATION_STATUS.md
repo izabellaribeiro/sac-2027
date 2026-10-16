@@ -45,3 +45,12 @@ The detailed historical editing sequence is not documented.
 Source dataset copies and their hashes are in `reference/source_datasets/`.
 Descriptive themes are in `reference/dataset_themes.md` and `theme_summary` in
 `story_provenance.csv`; these are not reconstructed sampling quotas.
+
+## Retrospective input audit
+
+`retrospective-input-audit/` documents two-coauthor consensus on qualified input
+judgments for 36 baseline–variant pairs from 23 parent stories. Initial agreement
+covered 28 pairs; discussion resolved eight disagreements without changing the
+existing judgments. This review is separate from the classification of 100
+questions and does not assess agent-response coverage. It does not validate all
+135 variants or establish independent inter-rater reliability.

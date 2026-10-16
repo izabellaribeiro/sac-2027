@@ -1,0 +1,31 @@
+{
+  "report_date": "2026-10-15",
+  "reported_by": "Author-A",
+  "second_reviewer": "Author-B",
+  "reviewers_are_coauthors": true,
+  "pairs_reviewed": 36,
+  "initial_agreement_count": 28,
+  "initial_disagreement_case_numbers": [
+    17,
+    18,
+    22,
+    24,
+    31,
+    32,
+    35,
+    36
+  ],
+  "initial_agreement_fraction": 0.7777777777777778,
+  "resolution": "The author reports that a meeting resolved all eight disagreements and retained the existing judgments. All 36 final judgments remain unchanged.",
+  "original_report": "Pronto, estou falando com um outro autor. Ele concordou com 28 das 36. E depois de uma reuniao, chegamos no consenso das 36. Poderia preparar o material dessa forma? As questoes de divergencias foram as : 17,18, 22,24, 31,32, 35 e 36",
+  "initial_alternative_judgments": "NOT_PROVIDED",
+  "disagreement_reasons": "NOT_PROVIDED",
+  "final_wording_of_eight_disputed_cases": "UNCHANGED_CONFIRMED",
+  "independent_or_blinded_initial_annotation": "NOT_ESTABLISHED",
+  "final_confirmation_original_portuguese": "o consenso manteve exatamente os julgamentos nesses oito casos",
+  "final_consensus_count": 36,
+  "final_judgments_changed": 0,
+  "meeting_date": "NOT_PROVIDED",
+  "agreement_interpretation": "Reported initial endorsement agreement, not independent inter-rater reliability.",
+  "preparation_provenance": "See protocol.md, Preparation and provenance."
+}

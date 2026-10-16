@@ -1,0 +1,77 @@
+{
+  "sources": [
+    {
+      "role": "Original construction/input record",
+      "filename": "mutation_manifest.csv",
+      "sha256": "50b6819f65c0385ada620ebbb3fa753a3dd9875e7235f8374b4bdfdc9dc92d4c"
+    },
+    {
+      "role": "Original construction/input record",
+      "filename": "SAC_2027_QUS_Mutants_Revised.xlsx",
+      "sha256": "0d751be13a547fc5de8a0956edb26f46879c045496520c692c354ad1d570b6ad"
+    }
+  ],
+  "text_reconciliation": "All 36 baseline and variant texts match between workbook extraction and manifest.",
+  "label_discrepancies": [
+    {
+      "pair_id": "US_016_syntactic",
+      "workbook_label": "well_formed.no_role",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_027_syntactic",
+      "workbook_label": "atomic",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_017_syntactic",
+      "workbook_label": "atomic",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_028_syntactic",
+      "workbook_label": "well_formed.no_means",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_019_semantic",
+      "workbook_label": "unambiguous",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_029_semantic",
+      "workbook_label": "unambiguous",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_018_syntactic",
+      "workbook_label": "well_formed.no_means",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_026_syntactic",
+      "workbook_label": "well_formed.no_role",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_021_semantic",
+      "workbook_label": "unambiguous",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_032_pragmatic",
+      "workbook_label": "Needs QUS mapping",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_036_syntactic",
+      "workbook_label": "well_formed.no_role",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    },
+    {
+      "pair_id": "US_031_semantic",
+      "workbook_label": "unambiguous",
+      "manifest_label": "REQUIRES_EXPERT_CRITERION"
+    }
+  ]
+}
